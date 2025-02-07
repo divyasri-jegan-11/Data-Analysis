@@ -3,28 +3,32 @@ Basic Analysis Projects
 
 
 📚 Data Analysis Projects – Virtual Internship at Trainity
-This repository contains the projects I completed during my virtual internship at Trainity, where I focused on data analysis and exploratory data analysis (EDA) using Python. Each project explores different datasets to draw insights and build business solutions.
+                This repository contains the projects I completed during my virtual internship at Trainity, where I focused on data analysis and exploratory data analysis (EDA) using Python. Each project explores 
+   different datasets to draw insights and build business solutions.
 
 🔍 Projects Overview
 1️⃣ Bank Loan Case Study
+
   - Objective: Analyze customer data to identify patterns and predict loan approval.
 Key Tasks:
-    - Data cleaning and preprocessing
+
+  - Data cleaning and preprocessing
     - Analyzing customer demographics and loan status
     - Building a predictive model for loan approval
     - Visualizing insights using Python (Matplotlib, Seaborn)
 
 Key Insights:
-    - Income, credit history, and loan amount significantly affect loan approval.
-    - Customers with stable employment and higher income are more likely to get their loans approved.
+   
+  - Income, credit history, and loan amount significantly affect loan approval.
+  -  Customers with stable employment and higher income are more likely to get their loans approved.
 
 
 2️⃣ IMDB Movie Analysis
     Objective: Analyze IMDB data to identify trends in the film industry and factors affecting movie ratings.
     Key Tasks:
-      - Cleaning and analyzing movie data 
-      - Understanding trends in genres, budgets, and box office performance
-      - Visualizing data to identify correlations between ratings, genres, and release years
+    - Cleaning and analyzing movie data 
+    - Understanding trends in genres, budgets, and box office performance
+    - Visualizing data to identify correlations between ratings, genres, and release years
 
    Key Insights:
        - Drama and Comedy are the most common genres.
