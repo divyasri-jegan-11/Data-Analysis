@@ -34,6 +34,7 @@ Key Insights:
 - Drama and Comedy are the most common genres.
 - High-budget movies tend to receive better ratings on average.
 -  There is a growing trend in action movies in the last decade.
+-  Helps in finding the better movie for the customer or the user.
 
 
 3️⃣ Impact of Car Features on Sales
