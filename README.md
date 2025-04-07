@@ -15,7 +15,7 @@ Key Tasks:
   - Data cleaning and preprocessing
     - Analyzing customer demographics and loan status
     - Building a predictive model for loan approval
-    - Visualizing insights using Python (Matplotlib, Seaborn)
+    - Visualizing insights using Python (Matplotlib, Seaborn involving 2d and 3d models of graph) 
 
 Key Insights:
    
